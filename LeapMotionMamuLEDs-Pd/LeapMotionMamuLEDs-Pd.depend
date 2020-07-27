@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569966016 source:/dados/Dropbox/projetos/Katja_Numeric_Puppetry/KatjaMamuLED/main.cpp
+	"Leap.h"
+	<boost/asio.hpp>
+
